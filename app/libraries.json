@@ -1,0 +1,23 @@
+[
+  {
+    "artifactId": "okhttp",
+    "excludes": [],
+    "groupId": "com.squareup.okhttp3",
+    "scope": "compile",
+    "versionName": "4.10.0"
+  },
+  {
+    "artifactId": "dexter",
+    "excludes": [],
+    "groupId": "com.karumi",
+    "scope": "compile",
+    "versionName": "6.2.3"
+  },
+  {
+    "artifactId": "gson",
+    "excludes": [],
+    "groupId": "com.google.code.gson",
+    "scope": "compile",
+    "versionName": "2.10.1"
+  }
+]
